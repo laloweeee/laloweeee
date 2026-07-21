@@ -52,6 +52,8 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=laloweeee&show_icons=true&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=laloweeee&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laloweeee&layout=compact&theme=dark&hide_border=true)
