@@ -54,6 +54,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laloweeee&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laloweeee&layout=compact&theme=dark&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=laloweeee&hide_border=true&background=0D1117&stroke=FFD32A&ring=FFD32A&fire=FFD32A&currStreakLabel=FFD32A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E)
