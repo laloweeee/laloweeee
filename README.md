@@ -1,5 +1,5 @@
 ## Hi, I'm Lowela Villadolid 👋
-### Full-Stack Developer · Project Lead
+### Full-Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=google-chrome)](https://lowela-villadolid.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lowela-villadolid/)
@@ -51,3 +51,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
