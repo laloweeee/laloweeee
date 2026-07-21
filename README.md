@@ -53,4 +53,5 @@
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=laloweeee&show_icons=true&theme=dark)
