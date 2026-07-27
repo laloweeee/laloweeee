@@ -6,7 +6,8 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail)](mailto:osabellowe@gmail.com)
 
 ### 🔭 About Me
-- I'm currently building full-stack web & mobile apps
+- I have hands-on experience in building full-stack web & mobile apps
+- I've also taken mobile apps from wireframe to high-fidelity Figma prototype with full component systems and dev-ready specs
 - Into AI/ML — built an XGBoost analytics engine and a Gemini-powered wellness app
 - Reach me at osabellowe@gmail.com
 
