@@ -52,6 +52,3 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Streak Stats](https://streak-stats.demolab.com/?user=laloweeee&hide_border=true&background=0D1117&stroke=FFD32A&ring=FFD32A&fire=FFD32A&currStreakLabel=FFD32A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E)
